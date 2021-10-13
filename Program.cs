@@ -13,7 +13,6 @@ namespace gittest
         {
             return x - y;
         }
-        public static sum(int x, int y) { return x+y;}
         static void Main(string[] args)
         {
         }
