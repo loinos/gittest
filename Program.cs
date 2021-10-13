@@ -12,6 +12,9 @@ namespace gittest
         public int sub(int x, int y)
         {
             return x - y;
+        public int sum(int x, int y)
+        {
+            return x + y;
         }
         static void Main(string[] args)
         {
