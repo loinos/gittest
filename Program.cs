@@ -19,7 +19,7 @@
         {
             return a * b;
         }
-        publc void SayHi(){
+        public void SayHi(){
             Console.WriteLine("Hi")
         }
     }
