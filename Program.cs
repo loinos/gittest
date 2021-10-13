@@ -1,4 +1,4 @@
-﻿namespace gittest
+namespace gittest
 {
     class Program
     {
@@ -18,9 +18,6 @@
         public static decimal Multiplication(decimal a, decimal b)
         {
             return a * b;
-        }
-        public void SayHi(){
-            Console.WriteLine("Hi")
         }
     }
     
