@@ -19,6 +19,10 @@ namespace gittest
         {
             return a * b;
         }
+        public static float Division (float x, float y)
+        {
+            return x / y;
+        }
     }
     
 
