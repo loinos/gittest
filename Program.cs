@@ -19,7 +19,11 @@
         {
             return a * b;
         }
+        publc void SayHi(){
+            Console.WriteLine("Hi")
+        }
     }
+    
 
     class MyClass
     {
