@@ -25,7 +25,7 @@ namespace gittest
         }
     }
     
-
+    //comment
     class MyClass
     {
         private string _name;
